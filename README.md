@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<div align="center">
+<img src="https://myreadme.vercel.app/api/embed/adel1046?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel1046&theme=tokyonight)
+
+</div>
+
 <!--
 **adel1046/adel1046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
