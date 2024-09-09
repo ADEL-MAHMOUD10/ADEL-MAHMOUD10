@@ -13,9 +13,11 @@
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adel1046&theme=aura_dark)  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adel1046&theme=aura_dark) 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adel1046&theme=aura_dark)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel1046&theme=aura_dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel1046\&theme=aura_dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <!--
 **adel1046/adel1046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
