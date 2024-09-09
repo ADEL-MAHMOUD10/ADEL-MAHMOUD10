@@ -11,7 +11,7 @@
   <img src="https://myreadme.vercel.app/api/embed/adel1046?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
-<div align="center">
+<div>
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adel1046&theme=aura_dark) 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adel1046&theme=aura_dark)
