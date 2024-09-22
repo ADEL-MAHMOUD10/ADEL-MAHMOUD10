@@ -8,14 +8,14 @@
 
 <div align="center">
   
-  <img src="https://myreadme.vercel.app/api/embed/adel1046?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  <img src="https://myreadme.vercel.app/api/embed/ADEL-MAHMOUD10?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
 <div align="center">
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adel1046&theme=aura_dark) 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adel1046&theme=aura_dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adel1046\&theme=aura_dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADEL-MAHMOUD10&theme=aura_dark) 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADEL-MAHMOUD10&theme=aura_dark)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADEL-MAHMOUD10\&theme=aura_dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
