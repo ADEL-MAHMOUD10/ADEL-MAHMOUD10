@@ -10,7 +10,7 @@
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADEL-MAHMOUD10&theme=aura_dark) 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADEL-MAHMOUD10&theme=aura_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADEL-MAHMOUD10&theme=apprentice)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADEL-MAHMOUD10&theme=aura_dark)
 
 </div>
 
