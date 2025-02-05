@@ -10,7 +10,7 @@
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADEL-MAHMOUD10&theme=aura_dark) 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADEL-MAHMOUD10&theme=aura_dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADEL-MAHMOUD10\&theme=aura_dark&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=ADEL-MAHMOUD10\&theme=aura_dark&layout=pie](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADEL-MAHMOUD10&theme=apprentice))](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
