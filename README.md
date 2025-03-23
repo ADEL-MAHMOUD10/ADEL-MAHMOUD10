@@ -13,12 +13,12 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ADEL-MAHMOUD10&theme=aura_dark)
 
 </div>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,docker,pycharm,vscode,py,fastapi,flask,selenium,mongodb,postman,firebase,cpp,linkedin,discord,windows,ubuntu" />
+  </a>
+</p>
 <!--
-**adel1046/adel1046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
