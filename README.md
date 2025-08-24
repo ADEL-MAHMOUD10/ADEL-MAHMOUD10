@@ -8,8 +8,8 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=ADEL-MAHMOUD10&theme=aura_dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api?username=ADEL-MAHMOUD10&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=ADEL-MAHMOUD10&theme=aura_dark&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api?username=ADEL-MAHMOUD10&theme=aura_dark&show_icons=true&hide_border=true&count_private=true)
 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADEL-MAHMOUD10&theme=aura_dark) 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADEL-MAHMOUD10&theme=aura_dark)
