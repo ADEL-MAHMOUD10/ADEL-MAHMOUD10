@@ -16,7 +16,7 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,docker,pycharm,vscode,py,django,fastapi,flask,redis,selenium,mongodb,postman,firebase,cpp,linkedin,discord,vercel,windows,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,bootstrap,docker,pycharm,vscode,py,django,fastapi,flask,php,redis,selenium,mongodb,postman,firebase,cpp,linkedin,discord,vercel,windows,ubuntu" />
   </a>
 </p>
 
