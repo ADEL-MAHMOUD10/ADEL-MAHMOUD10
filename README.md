@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=78F7BDFF&lines=Software+Architect;System+Design+%26+DevOps;Scaling+EdTech+Platforms
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=78F7BDFF&lines=Systems+Architecture;Building+Scalable+Platforms;Cloud+Infrastructure
 )](https://git.io/typing-svg)
   
 </div>
