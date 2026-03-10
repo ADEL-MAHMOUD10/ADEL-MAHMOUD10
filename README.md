@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
   [![GitHub Streak](https://streak-stats.demolab.com?user=ADEL-MAHMOUD10&theme=aura-dark)](https://git.io/streak-stats)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADEL-MAHMOUD10&theme=aura_dark) 
   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ADEL-MAHMOUD10&theme=aura_dark)
